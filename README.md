@@ -702,13 +702,13 @@
                 <div class="btn-group">
                   <span></span>
                   <button class="group-btn-item">
-                    <a href=""><img src="./assets/github.png" alt="" /></a>
+                    <a href="https://github.com/vivian347"><img src="./assets/github.png" alt="" /></a>
                   </button>
                   <button class="group-btn-item">
-                    <a href=""><img src="./assets/linked-in.png" alt="" /></a>
+                    <a href="https://www.linkedin.com/in/vivian-kinyua-5289051a0/"><img src="./assets/linked-in.png" alt="" /></a>
                   </button>
                   <button class="group-btn-item">
-                    <a href=""><img src="./assets/twitter.png" alt="" /></a>
+                    <a href="https://twitter.com/404"><img src="./assets/twitter.png" alt="" /></a>
                   </button>
                   <button
                     class="group-btn-item"
